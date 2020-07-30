@@ -1,12 +1,12 @@
 # Mix Tape
 
-Makers Final Project
+Makers Final Project.
+
+App demo here: https://mix-tape-makers.herokuapp.com/signin
 
 ![MT](./app/assets/images/MT.png)
 
 Contributors: [Karla Gardiner](https://github.com/KG700), [Lila Walker](https://github.com/lilawalker), [Jara Santamaria Martinez](https://github.com/jarasmar), [Sophia Bell](https://github.com/Kittaru87)
-
-Checkout our app at https://mix-tape-makers.herokuapp.com/signin
 
 [Specification](#Specification) | [Planning](#Planning) | [Installation Instructions](#Installation-instructions) | [Running Tests](#Running-tests) | [Tech Stack](#Tech-stack) | [Challenges](#challenges) | [Further Development](#Further-development)
 
